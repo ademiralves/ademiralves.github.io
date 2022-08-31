@@ -6,14 +6,8 @@
     "isMain": false
   },
   {
-    "name": "GitLab",
-    "url": "https://gitlab.com/themilkstripes",
-    "icon": ["fab", "gitlab"],
-    "isMain": false
-  },
-  {
     "name": "LinkedIn",
-    "url": "https://www.linkedin.com/in/silas-leite-08a669a9/",
+    "url": "https://www.linkedin.com/in/ademir-alves-692499231/",
     "icon": ["fab", "linkedin"],
     "isMain": false
   },
