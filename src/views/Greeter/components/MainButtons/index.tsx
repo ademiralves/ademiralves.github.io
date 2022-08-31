@@ -30,10 +30,10 @@ const MainButtons: React.FC<MainButtonsProps> = ({ contactData, repoUrl }) => {
         attr: 'followers',
       },
       href: `https://github.com/${username}`,
-      title: `Siga-me os bons! @${username}`,
+      title: `Aqui vamos nós! @${username}`,
       icon: ['fab', 'github'],
       size: 'lg',
-      text: `Siga-me os bons! @${username}`,
+      text: `Aqui vamos nós! @${username}`,
     },
     // Stargazers button
     {
