@@ -3,4 +3,4 @@
 - [Desenvolvimento de Software Multiplataforma](/dsm)
 
   - FATEC Zona Leste
-  - 2022-2024
+  - 2022 - 2024
