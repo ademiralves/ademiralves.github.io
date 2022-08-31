@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/ademiralves",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/themilkstripes",
+    "icon": ["fab", "gitlab"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/silas-leite-08a669a9/",
+    "icon": ["fab", "linkedin"],
+    "isMain": false
+  },
+  {
+    "name": "Mail",
+    "url": "mailto:cgademir@gmail.com",
+    "icon": ["fab", "google"],
+    "isMain": true
+  }
+]

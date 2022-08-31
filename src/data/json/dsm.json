@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "title": "Desenvolvimento de Software Multiplataforma",
+    "subtitle": "Desenvolvedor Full-Stack",
+    "info": "Tava sem fazer nada, sem dinheiro, sem rumo, então decidi embarcar nessa aventura em busca de muito, muito, muito, muitissimo dinheiro :)"
+  },
+  "semesters": [
+    {
+      "name": "1. Semestre",
+      "dates": {
+        "start":"2022-02-09",
+        "end":"2022-06-13"
+      },
+      "courses": [
+        {
+          "courseName": "Engenharia de Software I",
+          "sections": [
+            {
+              "title": "Documentação",
+              "url": "https://en.wikipedia.org/wiki/Software_engineering",
+              "progress": {
+                "completed": 15,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Estrutura de Dados",
+          "sections": [
+            {
+              "title": "Estrutura de Dados",
+              "url": "https://www.techtarget.com/searchdatamanagement/definition/data-structure#:~:text=A%20data%20structure%20is%20a,they%20need%20in%20appropriate%20ways.",
+              "progress": {
+                "completed": 15,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Desenvolvimento Web I",
+          "sections": [
+            {
+              "title": "Desenvolvimento de protótipos",
+              "url": "https://en.wikipedia.org/wiki/Prototype",
+              "progress": {
+                "completed": 15,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Design Digital",
+          "sections": [
+            {
+              "title": "Introdução a Interface Humano Computador e UI/UX",
+              "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJ-Mqnner5AhVqlJUCHc_QBDIQFnoECAQQAw&url=https%3A%2F%2Fwww.guiadacarreira.com.br%2Fcarreira%2Fdesigner-digital%2F%23%3A~%3Atext%3DO%2520designer%2520digital%2520atua%2520no%2Cinserida%2520em%2520algum%2520produto%2520eletroeletr%25C3%25B4nico.&usg=AOvVaw3MU8J0z_61y1PXo6FNNkZ0",
+              "progress": {
+                "completed": 15,
+                "total": 15
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semestre",
+      "dates": {
+        "start": "2022-08-09",
+        "end": "2022-12-01"
+      },
+      "courses": [
+        {
+          "courseName": "Matematica para computação",
+          "sections": [
+            {
+              "title": "Matematica discreta para os mais chegados",
+              "url": "https://pt.wikipedia.org/wiki/Matemática_discreta",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Desenvolvimento Web III",
+          "sections": [
+            {
+              "url": "https://spring.io/projects/spring-boot/",
+              "title": "Back-end: Spring Boot usando Java",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Desenvolvimento Web II",
+          "sections": [
+            {
+              "title": "Back-end: Node JS",
+              "url": "https://nodejs.org/en/",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Gestão Ágil de Projetos de Software",
+          "sections": [
+            {
+              "title": "Gerenciamento de Projetos para os mais chegados",
+              "url": "https://www.pmi.org/pmbok-guide-standards/foundational/pmbok?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Engenharia de Software II",
+          "sections": [
+            {
+              "title": "Abstração - UML",
+              "url": "https://en.wikipedia.org/wiki/Software_engineering",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        },
+        {
+          "courseName": "Banco de Dados - Relacional",
+          "sections": [
+            {
+              "title": "MySQL",
+              "url": "https://www.mysql.com",
+              "progress": {
+                "completed": 4,
+                "total": 15
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
